@@ -1,0 +1,9 @@
+# Ignore the data directory contents
+data/*
+!data/README.md
+
+# Ignore local python virtual environments and checkpoints
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.DS_Store
