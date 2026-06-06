@@ -12,6 +12,7 @@ This project implements a classical machine learning pipeline to classify wild l
 ## Repository Layout
 * `notebooks/`: Contains our Jupyter notebooks.
 * `data/`: Directory for the local tracking CSV file.
+* `literature/`: Contains research papers for references according to weeks.
 
 ## Weekly Development Plan
 -**Week 1:** Acquiring Data and Refining it
@@ -20,3 +21,7 @@ This project implements a classical machine learning pipeline to classify wild l
 -**Week 5-6:** Model Training and Optimization
 -**Week 7:** Interactive Geospatial Visualization
 -**Week 8:** Pipeline Polish and Finalization
+
+## Added Resources
+Google drive link for anyone who wishes to access the data files
+**Link:** https://drive.google.com/drive/u/0/folders/1EIgnpUT9E4iRz2YVHNhNBqGSWz1w2TyS
